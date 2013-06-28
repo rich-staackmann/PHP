@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<status>
+<shard name="Seastone" online="True" locked="False" population="high" queued="0" language="English" pvp="True" rp="False" recommend="False" initialCreationRestriction="False"/>
+<shard name="Greybriar" online="True" locked="False" population="high" queued="0" language="English" pvp="False" rp="False" recommend="False" initialCreationRestriction="False"/>
+<shard name="Deepwood" online="True" locked="False" population="high" queued="0" language="English" pvp="False" rp="False" recommend="False" initialCreationRestriction="False"/>
+<shard name="Faeblight" online="True" locked="False" population="high" queued="0" language="English" pvp="False" rp="True" recommend="False" initialCreationRestriction="False"/>
+<shard name="Hailol" online="True" locked="False" population="high" queued="0" language="English" pvp="False" rp="False" recommend="True" initialCreationRestriction="False"/>
+<shard name="Shatterbone" online="True" locked="False" population="high" queued="0" language="English" pvp="False" rp="False" recommend="False" initialCreationRestriction="False"/>
+<shard name="Threesprings" online="True" locked="False" population="high" queued="0" language="English" pvp="False" rp="False" recommend="False" initialCreationRestriction="False"/>
+<shard name="Wolfsbane" online="True" locked="False" population="high" queued="0" language="English" pvp="False" rp="False" recommend="False" initialCreationRestriction="False"/>
+<shard name="Laethys" online="True" locked="False" population="high" queued="0" language="English" pvp="False" rp="False" recommend="False" initialCreationRestriction="False"/>
+<shard name="Necropolis" online="True" locked="False" population="high" queued="0" language="English" pvp="True" rp="False" recommend="True" initialCreationRestriction="False"/>
+</status>
